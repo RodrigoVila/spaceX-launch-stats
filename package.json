@@ -1,0 +1,31 @@
+{
+  "name": "spacex-launch-stats",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "server": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RodrigoVila/spaceX-launch-stats.git"
+  },
+  "author": "Rodrigo Vila",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RodrigoVila/spaceX-launch-stats/issues"
+  },
+  "homepage": "https://github.com/RodrigoVila/spaceX-launch-stats#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "express-graphql": "^0.9.0",
+    "graphql": "^14.6.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}

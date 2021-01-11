@@ -1,6 +1,6 @@
 ## Space X Launch Stats
 
-App that retrieves laucnh stats from Space X API. Made with GraphQL, Apollo and React.
+App that retrieves launch stats from Space X API. Made with GraphQL, Apollo and React.
 
 ### How to use
 
